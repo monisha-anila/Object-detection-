@@ -1,4 +1,12 @@
-# Object-detection-
+# Weigh Bridge Automation
+[Project Video](https://drive.google.com/drive/u/0/folders/1jBOlKuHy33SRoDkJCYUAgzCp4XvcoD3m)
+### Project objective
+- A weighbridge is one of the key critical areas for crop selling to the framers.
+- A lot of mischievous activities happening at this stage which resulted in farmer's suicide rate increased by 15% every year. 
+- We want to solve the weighbridge problem using object detection by the YOLO framework a neural network and deep learningmodel which runs on a cloud for processing and images captured by Raspberry Pi.
+- This framework guides the user to avoid the weighbridge misplacement.
+
+### Project environment 
 - Using Anaconda Navigator with YOLO,Tensorflow a video guide for object detection.
 - The following link holds important files:[Google drive]( https://drive.google.com/drive/u/0/folders/1jBOlKuHy33SRoDkJCYUAgzCp4XvcoD3m).
 - The reference video is **TeamGo.mp4**. 
